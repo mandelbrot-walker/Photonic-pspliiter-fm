@@ -3,7 +3,7 @@
 ## Paper
 ![](./HV_with_TE_TM.png) 
 [Numerical Characterization of Photonic  Power Splitter: Optimization Criteria for Forward and Inverse Modeling](will insert arxiv link here)  
-Lubaba Tazrian (github or scholar), Mahmud Elahi Akhter(https://github.com/MahmudShimul) , Sayem Khan (github or scholar), Mainul Hossain (g or s), Rajib Ahmed (g or s), Mirza Mohammad Lutfe Elahi(https://ece.northsouth.edu/~lutfe.elahi/) ,Khaleda Ali (github or scholar) and Sharnali Islam (github or scholar)
+Lubaba Tazrian (github or scholar), [Mahmud Elahi Akhter](https://github.com/MahmudShimul) , Sayem Khan (github or scholar), Mainul Hossain (g or s), Rajib Ahmed (g or s), [Mirza Mohammad Lutfe Elahi](https://ece.northsouth.edu/~lutfe.elahi/) ,Khaleda Ali (github or scholar) and Sharnali Islam (github or scholar)
 
 If you find this code useful for your research, please cite our [paper](arxiv link):
 
