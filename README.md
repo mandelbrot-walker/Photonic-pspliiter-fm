@@ -28,7 +28,7 @@ We have provided a starter code to visualize the hole vector structure of the ph
 
 ### Running visualization starter
 The starter code takes in the desired csv and sample index and outputs a jpg image of the hole vector structure in the provided sample index. (need to fix os path ni code)    
-![](./HoleVector_sample7947.jpg) 
+![](./Hole_vector_examples.png) 
 ```bash
 python Visualize.py SiN_TE.csv 50
 ```
