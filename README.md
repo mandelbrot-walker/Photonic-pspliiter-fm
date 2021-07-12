@@ -3,7 +3,8 @@
 ## Paper
 ![](./HV_with_TE_TM.png) 
 [Numerical Characterization of Photonic  Power Splitter: Optimization Criteria for Forward and Inverse Modeling](will insert arxiv link here)  
-Lubaba Tazrian (github or scholar), [Mahmud Elahi Akhter](https://github.com/MahmudShimul) , [Sayem Khan] (https://www.researchgate.net/profile/Faizul-Sayem), [Mainul Hossain] (https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en), [Rajib Ahmed] (https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es), [Mirza Mohammad Lutfe Elahi](https://ece.northsouth.edu/~lutfe.elahi/) ,[Khaleda Ali] (https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en) and [Sharnali Islam](https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en)
+Lubaba Tazrian (github or scholar), [Mahmud Elahi Akhter](https://github.com/MahmudShimul) , [Faizul Rakib Sayem
+](https://www.researchgate.net/profile/Faizul-Sayem), [Mainul Hossain](https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en), [Rajib Ahmed](https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es), [Mirza Mohammad Lutfe Elahi](https://ece.northsouth.edu/~lutfe.elahi/) ,[Khaleda Ali](https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en) and [Sharnali Islam](https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en)
 
 If you find this code useful for your research, please cite our [paper](arxiv link):
 
