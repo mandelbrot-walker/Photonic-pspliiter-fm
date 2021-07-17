@@ -1,7 +1,7 @@
 # Numerical Characterization of Photonic  Power Splitter: Optimization Criteria for Forward and Inverse Modeling
 
 ## Paper
-![](./HV_with_TE_TM.png) 
+
 [Numerical Characterization of Photonic  Power Splitter: Optimization Criteria for Forward and Inverse Modeling](will insert arxiv link here)  
 [Lubaba Tazrian](https://github.com/LTRahman), [Mahmud Elahi Akhter](https://github.com/mandelbrot-walker), [Faizul Rakib Sayem
 ](https://www.researchgate.net/profile/Faizul-Sayem), [Mainul Hossain](https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en), [Rajib Ahmed](https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es), [Mirza Mohammad Lutfe Elahi](https://ece.northsouth.edu/~lutfe.elahi/), [Khaleda Ali](https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en) and [Sharnali Islam](https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en)
@@ -17,7 +17,7 @@ Chip-based photonic systems have undergone substantial progresses during the las
 
 ## Datasets
 The datasets inside TE Mode contain the full dataset. Datasets for all three materials, inside TE Mode have the same hole vector structure but different transmission data. TM Mode datasets only contain the transmission details. We did not provide Holve vector for these as they are the same as TE Mode.   
-![](./pie_chart.png) 
+
 ## Visualization starter code
 We have provided a starter code to visualize the hole vector structure of the photonic power splitters. 
 
