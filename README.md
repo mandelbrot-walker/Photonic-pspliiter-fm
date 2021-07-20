@@ -7,7 +7,7 @@ Numerical Characterization of Photonic Power Splitter: Optimization Criteria for
 [Lubaba Tazrian][LT], [Mahmud Elahi Akhter][mea], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
 
 [LT]: [https://github.com/LTRahman]
-[mea]: [https://github.com/mandelbrot-walker]
+[makhter]: [https://github.com/mandelbrot-walker]
 [FRS]: [https://www.researchgate.net/profile/Faizul-Sayem]
 [MH]: [https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en]
 [RA]: [https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es]
