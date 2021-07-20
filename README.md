@@ -24,7 +24,8 @@ We have provided a starter code to visualize the hole vector structure of the ph
 * matplotlib
 
 ### Running visualization starter
-The starter code takes in the desired csv and sample index and outputs a jpg image of the hole vector structure in the provided sample index.    
+The starter code takes in the desired csv and sample index and outputs a jpg image of the hole vector structure in the provided sample index. The csv file requires to be in the same working directory as the script.
+
 ![](./Hole_vector_examples.png) 
 ```bash
 python Visualize.py SiN_TE.csv 50
