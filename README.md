@@ -4,17 +4,8 @@
 
 Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling
 
-[Lubaba Tazrian][LT], [Mahmud Elahi Akhter][mea], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
+[Lubaba Tazrian][LT], [Mahmud Elahi Akhter][MEA], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
 
-[LT]: [https://github.com/LTRahman]
-[makhter]: [https://github.com/mandelbrot-walker]
-[FRS]: [https://www.researchgate.net/profile/Faizul-Sayem]
-[MH]: [https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en]
-[RA]: [https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es]
-[MLE]: [https://ece.northsouth.edu/~lutfe.elahi/]
-[KA]: [https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en]
-[SI]: [https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en]
-[projectlink]: https://discuss.huggingface.co/t/reproduce-neural-ode-and-neural-sde/7590
 
 ![](./HV_with_TE_TM.png)
 ## Abstract
@@ -38,6 +29,16 @@ The starter code takes in the desired csv and sample index and outputs a jpg ima
 ```bash
 python Visualize.py SiN_TE.csv 50
 ```
+
+
+[LT]: https://github.com/LTRahman
+[MEA]: https://github.com/mandelbrot-walker
+[FRS]: https://www.researchgate.net/profile/Faizul-Sayem
+[MH]: https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en
+[RA]: https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es
+[MLE]: https://ece.northsouth.edu/~lutfe.elahi/
+[KA]: https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en
+[SI]: https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en
 
 
 
