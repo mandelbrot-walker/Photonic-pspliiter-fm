@@ -2,7 +2,8 @@
 
 ## Paper
 
-Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling (JLT-28564-2021)
+Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling 
+(Submitted to IEEE/OSA Journal of Lightwave Technology. ID: JLT-28564-2021)
 
 [Lubaba Tazrian][LT], [Mahmud Elahi Akhter][MEA], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
 
