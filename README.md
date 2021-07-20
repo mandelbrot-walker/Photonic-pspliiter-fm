@@ -4,8 +4,17 @@
 
 Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling
 
-[Lubaba Tazrian][Lubaba Tazrian], [Mahmud Elahi Akhter][Mahmud Elahi Akhter], [Faizul Rakib Sayem
-][Faizul Rakib Sayem], [Mainul Hossain][Mainul Hossain], [Rajib Ahmed][Rajib Ahmed], [Mirza Mohammad Lutfe Elahi][Mirza Mohammad Lutfe Elahi], [Khaleda Ali][Khaleda Ali] and [Sharnali Islam][Sharnali Islam]
+[Lubaba Tazrian][LT], [Mahmud Elahi Akhter][MEA], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
+
+[LT]: [https://github.com/LTRahman]
+[MEA]: [https://github.com/mandelbrot-walker]
+[FRS]: [https://www.researchgate.net/profile/Faizul-Sayem]
+[MH]: [https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en]
+[RA]: [https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es]
+[MLE]: [https://ece.northsouth.edu/~lutfe.elahi/]
+[KA]: [https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en]
+[SI]: [https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en]
+
 
 ![](./HV_with_TE_TM.png)
 ## Abstract
@@ -31,11 +40,4 @@ python Visualize.py SiN_TE.csv 50
 ```
 
 
-[Lubaba Tazrian]: [https://github.com/LTRahman]
-[Mahmud Elahi Akhter]: [https://github.com/mandelbrot-walker]
-[Faizul Rakib Sayem]: [https://www.researchgate.net/profile/Faizul-Sayem]
-[Mainul Hossain]: [https://scholar.google.com/citations?user=RLP3qZsAAAAJ&hl=en]
-[Rajib Ahmed]: [https://scholar.google.com/citations?user=SmEoIXsAAAAJ&hl=es]
-[Mirza Mohammad Lutfe Elahi]: [https://ece.northsouth.edu/~lutfe.elahi/]
-[Khaleda Ali]: [https://scholar.google.com/citations?user=zDtDMMcAAAAJ&hl=en]
-[Sharnali Islam]: [https://scholar.google.com/citations?user=_FoUlhAAAAAJ&hl=en]
+
