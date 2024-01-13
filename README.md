@@ -30,6 +30,8 @@ The starter code takes in the desired csv and sample index and outputs a jpg ima
 ```bash
 python Visualize.py SiN_TE.csv 50
 ```
+## Forward Neural Network model
+We also provide a notebook for our neural netwrok based forward model. 
 
 ## Reference
 
