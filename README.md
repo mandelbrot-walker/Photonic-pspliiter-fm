@@ -1,17 +1,15 @@
-# Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling
+# A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling
 
 ## Paper
 
-Numerical Characterization of Photonic Power Splitter: Optimization Criteria for Forward Modeling 
-
-(Submitted to IEEE/OSA Journal of Lightwave Technology. ID: JLT-28564-2021)
+A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling
 
 [Lubaba Tazrian][LT], [Mahmud Elahi Akhter][MEA], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
 
 
 ![](./HV_with_TE_TM.png)
 ## Abstract
-Chip-based photonic systems have undergone substantial progresses during the last decade. However, the realization of the photonic devices still depends largely on the intuition based trial and error methods, with limited focus on characteristics analysis. In this work, we demonstrate an in-depth investigation on photonic power splitters by considering the transmission properties of 16,000 unique ultra-compact silicon based structures engraved with nanoholes of SiO2, Al2O3, and Si3N4. The characterization has been performed using finite-diﬀerence time-domain (FDTD) simulations for each of the dielectric material and for both TE and TM polarizations at the fundamental modes. The corresponding transmissions, splitting ratio, and reflection loss were calculated, generating the dataset that can be used for both forward and inverse modeling purposes, using Machine Learning (ML) and Deep Learning (DL) algorithms. With an optimized hole radius of 35 nm, the proposed device area footprint of 2 μm × 2 μm is among the smallest with the best transmission reported so far. Si3N4 holes show excellent transmission since it offers 90%  transmittance in 96% of data, while exhibiting maximum fabrication tolerance. Forward modeling analysis, predicting the transmission properties, was done by both Linear Model (LM) and Artificial Neural Network (ANN), where LM showing marginally better accuracy compared to ANN in foreseeing the transmittance. The proposed observation would aid to achieve robust, optimized optical power splitters having wide range of splitting ratios in lesser time.
+Chip-based photonic systems have undergone substantial progress over the last decade. However, the realization of photonic devices still depends largely on intuition-based trial-and-error methods, with a limited focus on characteristic analysis. In this work, we demonstrate an in-depth investigation of photonic power splitters by considering the transmission properties of 16,000 unique ultra-compact silicon-based structures engraved with SiO 2 , Al 2 O 3 , and Si 3 N 4 nanoholes. The characterization has been performed using finite-difference time-domain (FDTD) simulations for each dielectric material and both TE and TM polarizations at the fundamental modes in a wideband optical communication spectrum ranging from 1.45 to 1.65 μm . The corresponding transmissions, splitting ratio, and reflection loss were calculated, generating a dataset that can be used for both forward and inverse modeling purposes, using Machine Learning (ML) and Deep Learning (DL) algorithms. With an optimized hole radius of 35 nm, the proposed device area footprint of 2μm×2μm is among the smallest with the best transmission reported to date. Si 3 N 4 holes show excellent transmission because they offer 90% transmittance in 96% of the data while exhibiting maximum fabrication tolerance. Forward modeling analysis, predicting the transmission properties, was performed using both Linear Model (LM) and Artificial Neural Network (ANN), where LM showed marginally better accuracy than ANN in foreseeing the transmittance. The proposed observation will aid in achieving robust, optimized optical power splitters with a wide range of splitting ratios in lesser time.
 
 ## Datasets
 The datasets inside TE Mode contain the full dataset. Datasets for all three materials, inside TE Mode have the same hole vector structure but different transmission data. TM Mode datasets only contain the transmission details. We did not provide Holve vector for these as they are the same as TE Mode.   
@@ -33,6 +31,20 @@ The starter code takes in the desired csv and sample index and outputs a jpg ima
 python Visualize.py SiN_TE.csv 50
 ```
 
+## Reference
+
+If the code is used in your research, hope you can cite our paper as follows:
+```
+@ARTICLE{9716852,
+  author={Rahman, Lubaba Tazrian and Akhter, Mahmud Elahi and Sayem, Faizul Rakib and Hossain, Mainul and Ahmed, Rajib and Elahi, M. M. Lutfe and Ali, Khaleda and Islam, Sharnali},
+  journal={IEEE Access}, 
+  title={A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={20149-20158},
+  doi={10.1109/ACCESS.2022.3151722}}
+```
 
 [LT]: https://github.com/LTRahman
 [MEA]: https://github.com/mandelbrot-walker
