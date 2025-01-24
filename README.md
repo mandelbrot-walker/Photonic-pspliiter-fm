@@ -2,7 +2,7 @@
 
 ## Paper
 
-A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling
+[A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling][Paper]
 
 [Lubaba Tazrian][LT], [Mahmud Elahi Akhter][MEA], [Faizul Rakib Sayem][FRS], [Mainul Hossain][MH], [Rajib Ahmed][RA], [Mirza Mohammad Lutfe Elahi][MLE], [Khaleda Ali][KA] and [Sharnali Islam][SI]
 
@@ -47,7 +47,7 @@ If the code is used in your research, hope you can cite our paper as follows:
   pages={20149-20158},
   doi={10.1109/ACCESS.2022.3151722}}
 ```
-
+[Paper]: https://ieeexplore.ieee.org/abstract/document/9716852 
 [LT]: https://github.com/LTRahman
 [MEA]: https://github.com/mandelbrot-walker
 [FRS]: https://www.researchgate.net/profile/Faizul-Sayem
